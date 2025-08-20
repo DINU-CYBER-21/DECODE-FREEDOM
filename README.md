@@ -1,2 +1,1 @@
-# DECODE-FREEDOM
-Fucking
+# Obfuscator1
